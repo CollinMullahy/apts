@@ -201,7 +201,7 @@ Available 5/1</description>
     <neighborhood>Bushwick</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Vacant</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3750</price>
@@ -274,7 +274,7 @@ Call or text to take a look right away!</description>
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Vacant</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>Broker's Fee</pay_type>
     <price>4500</price>
@@ -453,7 +453,7 @@ Short commute to Manhattan; easy access to the rest of Brooklyn's hottest neighb
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Vacant</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>4000</price>
@@ -518,7 +518,7 @@ Short commute to Manhattan; easy access to the rest of Brooklyn's hottest neighb
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Vacant</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>4750</price>
@@ -578,7 +578,7 @@ Short commute to Manhattan; easy access to the rest of Brooklyn's hottest neighb
     <neighborhood>East Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Vacant</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3500</price>
@@ -1357,7 +1357,7 @@ NO BROKER FEE!</description>
     <neighborhood>Astoria</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Vacant</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>4500</price>
@@ -2725,7 +2725,7 @@ Short commute to Manhattan; easy access to the rest of Brooklyn's hottest neighb
     <neighborhood>East Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Vacant</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3900</price>
@@ -2794,7 +2794,7 @@ Lots of natural light from windows</description>
     <neighborhood>Bushwick</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Vacant</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3500</price>

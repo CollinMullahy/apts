@@ -1650,6 +1650,52 @@ Finished Roof Deck</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/1996_638458744220402196.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="13" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="13461" url="https://myspacenyc.cazamio.com/apartments/63-3rd-place-Unit-3R-brooklyn-NY-11231-13461">
+  <location>
+    <premium>No</premium>
+    <address>63 3rd place</address>
+    <apartment>3R</apartment>
+    <city>brooklyn</city>
+    <state>NY</state>
+    <zipcode>11231</zipcode>
+    <neighborhood>Carroll Gardens</neighborhood>
+  </location>
+  <details>
+    <status>Vacant</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>5500</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Apr-28-2024</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>Jack</owner_company_name>
+    <amenities>
+      <pets />
+      <other>A/C, Washer/Dryer In Unit, Shared Outdoor Space</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="15591" url="https://myspacenyc.cazamio.com/apartments/1042-President-Street-Unit-2C-Brooklyn-NY-11213-15591">
   <location>
     <premium>No</premium>
@@ -2186,52 +2232,6 @@ Garage Parking</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/2005_638459484322646264.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/2005_638459484294651327.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
   </media>
-</property>
-<property type="rental" status="active" id="13461" url="https://myspacenyc.cazamio.com/apartments/63-3rd-place-Unit-3R-brooklyn-NY-11231-13461">
-  <location>
-    <premium>No</premium>
-    <address>63 3rd place</address>
-    <apartment>3R</apartment>
-    <city>brooklyn</city>
-    <state>NY</state>
-    <zipcode>11231</zipcode>
-    <neighborhood>Carroll Gardens</neighborhood>
-  </location>
-  <details>
-    <status>Vacant</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>5500</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Apr-28-2024</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>Jack</owner_company_name>
-    <amenities>
-      <pets />
-      <other>A/C, Washer/Dryer In Unit, Shared Outdoor Space</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
 </property>
 <property type="rental" status="active" id="12824" url="https://myspacenyc.cazamio.com/apartments/1042-President-Street-Unit-4C-Brooklyn-NY-11213-12824">
   <location>

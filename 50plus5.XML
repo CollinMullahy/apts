@@ -1824,7 +1824,7 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Vacant</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>5250</price>
@@ -2424,7 +2424,7 @@ Finished Roof Deck</description>
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Vacant</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>5250</price>

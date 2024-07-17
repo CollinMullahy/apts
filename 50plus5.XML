@@ -717,7 +717,7 @@ Small pets accepted</description>
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3999</price>
@@ -2849,7 +2849,7 @@ Pet Friendly!! (just 1 time fee)</description>
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>4800</price>

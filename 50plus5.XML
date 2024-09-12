@@ -3537,7 +3537,7 @@ Conveniently located near L train at Lorimer and right next to McCarren Park.</d
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>Broker's Fee</pay_type>
     <price>2271</price>
@@ -3566,9 +3566,7 @@ Fitness Center
 Laundry Room
 Tenant Lounge
 Package Room
-Finished Roof Deck
-First; Security
-NO FEE</description>
+Finished Roof Deck</description>
     <propertyType>rental</propertyType>
     <owner_company_name>CW</owner_company_name>
     <amenities>

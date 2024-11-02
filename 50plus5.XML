@@ -2466,6 +2466,61 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638635579026529843.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="21239" url="https://myspacenyc.cazamio.com/apartments/18-73-Stockholm-Street-Unit-2-Queens-NY-11385-21239">
+  <location>
+    <premium>No</premium>
+    <address>18-73 Stockholm Street</address>
+    <apartment>2</apartment>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11385</zipcode>
+    <neighborhood>Flushing</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3500</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Nov-02-2024</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>TommyYoyo</owner_company_name>
+    <amenities>
+      <pets>Small pets allowed, Case by Case</pets>
+      <other>Balcony/Terrace, Dishwasher, Hardwood Floors, Granite counter tops, Full-size refrigerator, Stainless steel appliances, Window in every bedroom, Private Outdoor Space, Kitchen/bath ceramic floors, Linen closet, Refrigerator/oven</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849146944274.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A14Z&amp;sr=b&amp;sp=r&amp;sig=cD91RFB2E3eBaV9SVfw02iHis5MoTuGCieqKVepNidc%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849149869175.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A15Z&amp;sr=b&amp;sp=r&amp;sig=1jP%2FjSI%2FRBhQQ4YcnLdahXvZ9g6xF9p9RH1iZEB5R%2FA%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849150135562.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A15Z&amp;sr=b&amp;sp=r&amp;sig=esLMoR1bfcYN6C7hhBtJBVfnMcod8FSLZuziZzes8cI%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849149888331.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A15Z&amp;sr=b&amp;sp=r&amp;sig=R97Bfauk1ETdL%2BERw2CTlQUCWY3luJR1UrPuD0MB6zk%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849149830021.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A15Z&amp;sr=b&amp;sp=r&amp;sig=5T5D1kHV6CxCHGzV%2FyQeXWH90H5BxW91F%2FzNdXhZGy8%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849150100571.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A15Z&amp;sr=b&amp;sp=r&amp;sig=E6hL0UBAsDxnFRPBIOUmZnFhYEaWiUfNaaT9Jv7a8wo%3D" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849150275548.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A15Z&amp;sr=b&amp;sp=r&amp;sig=kl8rBsR%2FK7YSwDV3URGkLbj1lc9ZZncyPkckuIyBO%2Bw%3D" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849150312456.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A15Z&amp;sr=b&amp;sp=r&amp;sig=VxMdwiWWLa42sA%2FphrdrT8appH8uy6CLDMizzFc%2BQDo%3D" position="7" description="" />
+  </media>
+</property>
 <property type="rental" status="active" id="20904" url="https://myspacenyc.cazamio.com/apartments/931-Carroll-Street-Unit-1011-Brooklyn-NY-11225-20904">
   <location>
     <premium>Yes</premium>

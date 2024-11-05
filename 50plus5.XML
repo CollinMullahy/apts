@@ -1441,6 +1441,51 @@ Finished Roof Deck</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1996_638416374222952180.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="24" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="21336" url="https://myspacenyc.cazamio.com/apartments/31-19-37th-Street-Unit-2E-Queens-NY-11103-21336">
+  <location>
+    <premium>No</premium>
+    <address>31-19 37th Street</address>
+    <apartment>2E</apartment>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11103</zipcode>
+    <neighborhood>Long Island City</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>4000</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>2</bathrooms>
+    <availableOn>Nov-06-2024</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>CW</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
 <property type="rental" status="active" id="21334" url="https://myspacenyc.cazamio.com/apartments/31-19-37th-Street-Unit-3A-Queens-NY-11103-21334">
   <location>
     <premium>No</premium>
@@ -1494,51 +1539,6 @@ Finished Roof Deck</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1996_638664244609707917.jpeg?sv=2024-11-04&amp;se=2026-11-05T17%3A27%3A40Z&amp;sr=b&amp;sp=r&amp;sig=dtjC%2BE0sh5XkASbinBmk7c9TP78DfXu3Ug%2BYnXt3DsM%3D" position="6" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1996_638664244608949297.jpeg?sv=2024-11-04&amp;se=2026-11-05T17%3A27%3A40Z&amp;sr=b&amp;sp=r&amp;sig=ysn1qNDhw3IUMNnhck2H8Wu%2FiE3rdEztXbIUDiCeSh8%3D" position="7" description="" />
   </media>
-</property>
-<property type="rental" status="active" id="21336" url="https://myspacenyc.cazamio.com/apartments/31-19-37th-Street-Unit-2E-Queens-NY-11103-21336">
-  <location>
-    <premium>No</premium>
-    <address>31-19 37th Street</address>
-    <apartment>2E</apartment>
-    <city>Queens</city>
-    <state>NY</state>
-    <zipcode>11103</zipcode>
-    <neighborhood>Long Island City</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>4000</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>2</bathrooms>
-    <availableOn>Nov-06-2024</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>CW</owner_company_name>
-    <amenities>
-      <pets>All pets allowed</pets>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
 </property>
 <property type="rental" status="active" id="2639" url="https://myspacenyc.cazamio.com/apartments/251-Front-St-Unit-2F-Brooklyn-NY-11201-2639">
   <location>
@@ -4399,7 +4399,7 @@ Live in luxury, surrounded by cultural landmarks and green spaces. With excellen
     <neighborhood>Crown Heights</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3100</price>

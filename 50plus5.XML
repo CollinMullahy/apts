@@ -315,60 +315,6 @@ No broker fee</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557219361862807.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="21250" url="https://myspacenyc.cazamio.com/apartments/260-Knickerbocker-Ave-Unit-7E-Brooklyn-NY-11237-21250">
-  <location>
-    <premium>No</premium>
-    <address>260 Knickerbocker Ave</address>
-    <apartment>7E</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11237</zipcode>
-    <neighborhood>Ridgewood</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3100</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>1</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Dec-01-2024</availableOn>
-    <description />
-    <propertyType>rental</propertyType>
-    <owner_company_name>wmm</owner_company_name>
-    <amenities>
-      <pets />
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663377808749002.jpeg?sv=2024-11-04&amp;se=2026-11-04T17%3A23%3A00Z&amp;sr=b&amp;sp=r&amp;sig=r52SdU3FPa2tTwnFcI%2F4nJS1EKS5ZpVN93vwEeDfK1Y%3D" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663377810042978.jpeg?sv=2024-11-04&amp;se=2026-11-04T17%3A23%3A01Z&amp;sr=b&amp;sp=r&amp;sig=F48mmuTe25LvbNzM61HnBno%2BywjTGpDYucrIyD0LM4g%3D" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663377809754453.jpeg?sv=2024-11-04&amp;se=2026-11-04T17%3A23%3A00Z&amp;sr=b&amp;sp=r&amp;sig=EdjQfkQv6futPCTdaGZZVGnEC67E9dVKbTtxmU5nA9U%3D" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663377810707699.jpeg?sv=2024-11-04&amp;se=2026-11-04T17%3A23%3A01Z&amp;sr=b&amp;sp=r&amp;sig=0T6S26%2BB79RcE1lxl9AvzebE5rPi9S2LXo%2FhKeQ0cas%3D" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663377811137978.jpeg?sv=2024-11-04&amp;se=2026-11-04T17%3A23%3A01Z&amp;sr=b&amp;sp=r&amp;sig=8HIRA4qXGMtz1n8Ed9iv58nYd4lSjQDvOYVOahIC2DY%3D" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663377808774831.jpeg?sv=2024-11-04&amp;se=2026-11-04T17%3A23%3A00Z&amp;sr=b&amp;sp=r&amp;sig=uxwIBySzIrH5K0Re8%2BiuIaK60XLUWN%2BdcF2fwVmKLq8%3D" position="5" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663377812611610.jpeg?sv=2024-11-04&amp;se=2026-11-04T17%3A23%3A01Z&amp;sr=b&amp;sp=r&amp;sig=DYvKPIT3OV%2BAraB%2F8D1GKARdGXaxqZ59e7vj%2BAbB2jo%3D" position="6" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638663377808981987.jpeg?sv=2024-11-04&amp;se=2026-11-04T17%3A23%3A00Z&amp;sr=b&amp;sp=r&amp;sig=9C%2F9b7xAwucdYhpCbsmrFVkwjFm2J%2BAqQ1ch3dNPD24%3D" position="7" description="" />
-  </media>
-</property>
 <property type="rental" status="active" id="21251" url="https://myspacenyc.cazamio.com/apartments/146-Meserole-St-Unit-2K-Brooklyn-NY-11206-21251">
   <location>
     <premium>No</premium>

@@ -68,6 +68,64 @@ Broker fee applies</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638270626326017540.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
   </media>
 </property>
+<property type="rental" status="active" id="21613" url="https://myspacenyc.cazamio.com/apartments/291-Crown-St-Unit-B4-Brooklyn-NY-11225-21613">
+  <location>
+    <premium>No</premium>
+    <address>291 Crown St</address>
+    <apartment>B4</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11225</zipcode>
+    <neighborhood>Crown Heights</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>2600</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Dec-15-2024</availableOn>
+    <description>Beautiful 1 bedroom on Crown St with high ceilings. Oak wood floors. Stainless steel kitchen. Fully tiled bathroom with large soaking tub. Heat and hot water included. Near Prospect Park,Brooklyn Museum and a short walk to Franklin Ave bars and restaurants. Near the 2 and 5 trains.
+
+1/1 move in
+Broker fee applies</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>9222</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Hardwood Floors, Stainless steel appliances</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638678919673937446.jpeg?sv=2024-11-04&amp;se=2026-11-22T17%3A06%3A07Z&amp;sr=b&amp;sp=r&amp;sig=jD0%2Bj2TlnNHxdJv81S0KNDHIejRHvIU3k8Q79LdxwJA%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638678919673927183.jpeg?sv=2024-11-04&amp;se=2026-11-22T17%3A06%3A07Z&amp;sr=b&amp;sp=r&amp;sig=m0n8%2Fbbq%2F82B6LDPrEtiEp7HbeDz3b9TpoZEW9BVmKo%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638678919673837469.jpeg?sv=2024-11-04&amp;se=2026-11-22T17%3A06%3A07Z&amp;sr=b&amp;sp=r&amp;sig=UimRwZf8VACz1GEdqveG2uTNNRAEF05APGH8d6MLScE%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638678919673955027.jpeg?sv=2024-11-04&amp;se=2026-11-22T17%3A06%3A07Z&amp;sr=b&amp;sp=r&amp;sig=0TmfdHPIhdVhgCmCAZFAdOJOMcb6Cg4IVcz5MWnnyuo%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638678919673957086.jpeg?sv=2024-11-04&amp;se=2026-11-22T17%3A06%3A07Z&amp;sr=b&amp;sp=r&amp;sig=PClha9XdNPr9BTOMGAvlw5sGDvl40E8440iN%2FDFpPRU%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638678919674038358.jpeg?sv=2024-11-04&amp;se=2026-11-22T17%3A06%3A07Z&amp;sr=b&amp;sp=r&amp;sig=xWByRZKRcQeVyq%2FDyh8zs8N6m8G%2BIpojKVkVw%2FHbqCY%3D" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1997_638678919674086454.jpeg?sv=2024-11-04&amp;se=2026-11-22T17%3A06%3A07Z&amp;sr=b&amp;sp=r&amp;sig=xv8oS3rbP%2FPzr%2BjiyAFZFp%2Fi%2BssxwKXd%2FrhT9em68Q0%3D" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-12/1997_638370485824117105.png?sv=2019-07-07&amp;sr=c&amp;sig=4TX78%2BBb2GlsF7%2BbbAWVmTEG43jAWaFPiyy8zo0h%2B%2FI%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+  </media>
+</property>
 <property type="rental" status="active" id="20953" url="https://myspacenyc.cazamio.com/apartments/100-Dupont-St-Unit-3H-Brooklyn-NY-11222-20953">
   <location>
     <premium>No</premium>

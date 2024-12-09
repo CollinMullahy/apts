@@ -193,7 +193,7 @@ No broker fee</description>
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3800</price>
@@ -5061,7 +5061,7 @@ Live in luxury, surrounded by cultural landmarks and green spaces. With excellen
     <neighborhood>Crown Heights</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>3400</price>
@@ -6301,85 +6301,6 @@ Live in luxury, surrounded by cultural landmarks and green spaces. With excellen
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638653768202851700.jpeg?sv=2024-11-04&amp;se=2026-10-24T14%3A27%3A00Z&amp;sr=b&amp;sp=r&amp;sig=VTaC%2FyRD0F2zJE62CLRLye7jPawBHno0HkieQJLemYw%3D" position="4" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638653768206774709.jpeg?sv=2024-11-04&amp;se=2026-10-24T14%3A27%3A00Z&amp;sr=b&amp;sp=r&amp;sig=cWUdp%2B2CIh7m2ZnL3onkmCcJiVa1bjuHyGYhj6FjbAw%3D" position="5" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638653768201254640.jpeg?sv=2024-11-04&amp;se=2026-10-24T14%3A27%3A00Z&amp;sr=b&amp;sp=r&amp;sig=MsI1P0tZCWjG19PU0L0jehnWvsQP38zaqW3dvPs1JBA%3D" position="6" description="" />
-  </media>
-</property>
-<property type="rental" status="active" id="20928" url="https://myspacenyc.cazamio.com/apartments/931-Carroll-Street-Unit-1702-Brooklyn-NY-11225-20928">
-  <location>
-    <premium>Yes</premium>
-    <address>931 Carroll Street</address>
-    <apartment>1702</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11225</zipcode>
-    <neighborhood>Crown Heights</neighborhood>
-  </location>
-  <details>
-    <status>Deposit Received</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>4950</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>2</bathrooms>
-    <availableOn>Oct-15-2024</availableOn>
-    <description>Luxury Apartments at 931 Carroll Street
-
-Welcome to 931 Carroll Street, a brand-new luxury rental building in the heart of Brooklyn. Just a block from the Brooklyn Botanical Gardens and the Brooklyn Museum, and within walking distance of Prospect Park, this location offers an unbeatable blend of culture and nature. Only 2 blocks from the 2, 3, 4, 5 trains and the Shuttle to the A, C, Q trains, you're perfectly positioned for quick access across the city.
-
-Offering studio, 1-bedroom, 2-bedroom, and 3-bedroom apartments, each unit boasts modern design, premium finishes, and oversized windows with stunning views.
-
- Features include:
-In-unit washer/dryer
-Dishwasher
-Hardwood floors
-Private outdoor space (balcony, courtyard, or patio)
-Central air and expansive windows for natural light
-
-Building Amenities:
-State-of-the-art fitness center
-Landscaped rooftop terrace with panoramic city views
-Tranquil courtyard for relaxation
-Garage parking, bike room, and storage options
-Media room, package room, and pet spa
-
-Live in luxury, surrounded by cultural landmarks and green spaces. With excellent public transportation and nearby shopping and dining options, 931 Carroll Street is your gateway to the best of Brooklyn.</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>STREKTE</owner_company_name>
-    <amenities>
-      <pets>Pet Fee</pets>
-      <other>Balcony/Terrace, Dishwasher, Washer/Dryer In Unit, Central A/C</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638647877667201661.png?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638647877661776055.png?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638647877670429297.png?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638647877673438478.png?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638647877667333179.png?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638647877766881029.png?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638647877674014466.png?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638647877661978150.png?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638647877665741958.png?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638647877669624396.png?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638647877672164942.png?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-10/1996_638647877672426583.png?sv=2019-07-07&amp;sr=c&amp;sig=JF7AFCauNn%2Fn653sAJF91MlM1afYkVEv9xgz1IlZSuc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
   </media>
 </property>
 <property type="rental" status="active" id="20929" url="https://myspacenyc.cazamio.com/apartments/931-Carroll-Street-Unit-1708-Brooklyn-NY-11225-20929">

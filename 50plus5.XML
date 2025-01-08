@@ -71,65 +71,6 @@ Small pets welcome</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638714533274202132.jpeg?sv=2024-11-04&amp;se=2027-01-02T22%3A22%3A07Z&amp;sr=b&amp;sp=r&amp;sig=qvU4XCg4a7KIUzs35%2Fh8VQv2fRX4Q1ctwF1GHd8weLw%3D" position="6" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="30787" url="https://myspacenyc.cazamio.com/apartments/213-Union-Ave-Unit-B-Brooklyn-NY-11211-30787">
-  <location>
-    <premium>No</premium>
-    <address>213 Union Ave</address>
-    <apartment>B</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11211</zipcode>
-    <neighborhood>Williamsburg</neighborhood>
-  </location>
-  <details>
-    <status>Deposit Received</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>2725</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>1</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Feb-01-2025</availableOn>
-    <description>MySpace exclusive! 
-
-Spacious one bedroom in well maintained pre war building in Williamsburg. Large living room perfect for entertaining. Updated kitchen with stainless steel appliances. 
-Short walk to the J,M,G and L trains. Super easy to get anywhere! Pies-n-Thighs, The Rosemont, Testo, Align Coffee, Williamsburg Pizza, Modern Love Vega, etc all nearby. Incredible Williamsburg location. 
-
-Available 2/1
-Small pets OK
-No broker fee</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>9222</owner_company_name>
-    <amenities>
-      <pets>Small pets allowed</pets>
-      <other>Hardwood Floors</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638714543091664821.png?sv=2024-11-04&amp;se=2027-01-02T22%3A38%3A29Z&amp;sr=b&amp;sp=r&amp;sig=mx%2BlEU0pAjtFgZlZ74bqOXIw1hpw%2FNGl%2B6t9jc0LSCQ%3D" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638714543091671846.png?sv=2024-11-04&amp;se=2027-01-02T22%3A38%3A29Z&amp;sr=b&amp;sp=r&amp;sig=ZpdeuSPqlBw09TBXads1r7BAKZnuDLDLqxhgIf%2F%2F0BE%3D" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638714543092416177.png?sv=2024-11-04&amp;se=2027-01-02T22%3A38%3A29Z&amp;sr=b&amp;sp=r&amp;sig=3I5O7h6tKjfrzOhyP0ywgsY6NG92AkBbUwzg%2BwjAGYc%3D" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638714543092879361.png?sv=2024-11-04&amp;se=2027-01-02T22%3A38%3A29Z&amp;sr=b&amp;sp=r&amp;sig=Oy%2BmqPBndznT%2BFHeLdalIyuBO01RQvSz8UTm%2FRlha6o%3D" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638714543091447512.png?sv=2024-11-04&amp;se=2027-01-02T22%3A38%3A29Z&amp;sr=b&amp;sp=r&amp;sig=UTzcxpqCRBNAp4InDeJzkq2IeBEbk7CfqvE96YfHSAo%3D" position="4" description="" />
-  </media>
-</property>
 <property type="rental" status="active" id="30788" url="https://myspacenyc.cazamio.com/apartments/280-Crown-St-Unit-E7-Brooklyn-NY-11225-30788">
   <location>
     <premium>No</premium>

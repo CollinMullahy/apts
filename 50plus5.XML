@@ -1,5 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <properties>
+<property type="rental" status="active" id="14141" url="https://myspacenyc.cazamio.com/apartments/322-Rodney-St-Unit-32-Brooklyn-NY-11211-14141">
+  <location>
+    <premium>No</premium>
+    <address>322 Rodney St</address>
+    <apartment>32</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11211</zipcode>
+    <neighborhood>Williamsburg</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3500</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Apr-01-2025</availableOn>
+    <description>Myspace Exclusive!
+Beautiful apartment in Williamsburg, prime location!
+
+This 2 bedroom apartment features a spacious living room, queen-sized bedrooms, stainless steel kitchen, modern bathroom, hardwood floors, and windows that let in natural light throughout.
+
+You?ll be right around the corner from dozens of top-rated bars, restaurants, cafes, grocers, and music/art venues. Local favorites include Westlight, Brooklyn Bowl, Extra Fancy, Lucky Dog, Baby?s All Right, Patrizia?s, Battery Harris, Post Office, and Freehold.
+
+Short commute to Manhattan; easy access to the rest of Brooklyn?s hottest neighborhoods. Only # blocks from the L train, and a # minute walk to the JMZ trains
+
+February 1 move in
+Small pets welcome
+No broker fee</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>9222</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Hardwood Floors</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399209674092077.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399209696163108.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399209706844088.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399209718214149.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399209729402622.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399209739506956.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399209751228599.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399209769639460.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="7" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399209780843787.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="8" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399209791121926.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="12" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399209800896149.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="11" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399209811918718.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="9" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-01/1997_638399209823956729.png?sv=2019-07-07&amp;sr=c&amp;sig=UDOuHxHcqqjQt07ErNDwWriIF8QzeswMpHobNk3BNN4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="10" description="" />
+  </media>
+</property>
 <property type="rental" status="active" id="31994" url="https://myspacenyc.cazamio.com/apartments/77-Division-Ave-Unit-18-Brooklyn-NY-11249-31994">
   <location>
     <premium>No</premium>

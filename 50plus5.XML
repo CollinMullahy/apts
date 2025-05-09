@@ -266,104 +266,6 @@ No broker fee</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638811970011849209.jpeg?sv=2025-05-05&amp;se=2027-04-25T16%3A56%3A41Z&amp;sr=b&amp;sp=r&amp;sig=WIEg7ld5f9%2BVkyMnc26aEnnj2Ff7fZSAWmv7RUwHVyI%3D" position="4" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="33771" url="https://myspacenyc.cazamio.com/apartments/649-Hart-Street-Unit-2D-Brooklyn-NY-11221-33771">
-  <location>
-    <premium>No</premium>
-    <address>649 Hart Street</address>
-    <apartment>2D</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-    <neighborhood>Bushwick</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3850</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>1</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>May-08-2025</availableOn>
-    <description>Spacious 1BR in a modern elevator building with one of the biggest living rooms you?ll find?room for dining, lounging, and working. Bright and airy with oversized windows, a large kitchen, great storage, and in-unit washer/dryer. A/C in every room, big closets, sunny bedroom.
-
-Building perks: gym, roof deck, pet spa, parking (for a fee), lounge, bike storage.
-No broker fee.</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>wmm</owner_company_name>
-    <amenities>
-      <pets>All pets allowed</pets>
-      <other>Washer/Dryer In Unit, Dishwasher, Central A/C</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
-<property type="rental" status="active" id="33772" url="https://myspacenyc.cazamio.com/apartments/649-Hart-Street-Unit-3D-Brooklyn-NY-11221-33772">
-  <location>
-    <premium>No</premium>
-    <address>649 Hart Street</address>
-    <apartment>3D</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-    <neighborhood>Bushwick</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>3850</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>1</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Jun-01-2025</availableOn>
-    <description>Spacious 1BR in a modern elevator building with one of the biggest living rooms you?ll find?room for dining, lounging, and working. Bright and airy with oversized windows, a large kitchen, great storage, and in-unit washer/dryer. A/C in every room, big closets, sunny bedroom.
-
-Building perks: gym, roof deck, pet spa, parking (for a fee), lounge, bike storage.
-No broker fee.</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>wmm</owner_company_name>
-    <amenities>
-      <pets>All pets allowed</pets>
-      <other>Washer/Dryer In Unit, Dishwasher, Central A/C</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media />
-</property>
 <property type="rental" status="active" id="33775" url="https://myspacenyc.cazamio.com/apartments/1141-Willoughby-Ave-Unit-7C-Brooklyn-NY-11237-33775">
   <location>
     <premium>No</premium>
@@ -643,6 +545,162 @@ Schedule a tour today!</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638591791784773517.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="12" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638591791785080895.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="13" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638591791784841061.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="14" description="" />
+  </media>
+</property>
+<property type="rental" status="active" id="33771" url="https://myspacenyc.cazamio.com/apartments/649-Hart-Street-Unit-2D-Brooklyn-NY-11221-33771">
+  <location>
+    <premium>No</premium>
+    <address>649 Hart Street</address>
+    <apartment>2D</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+    <neighborhood>Bushwick</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3850</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>May-08-2025</availableOn>
+    <description>Spacious 1BR in a modern elevator building with one of the biggest living rooms you?ll find?room for dining, lounging, and working. Bright and airy with oversized windows, a large kitchen, great storage, and in-unit washer/dryer. A/C in every room, big closets, sunny bedroom.
+
+Building perks: gym, roof deck, pet spa, parking (for a fee), lounge, bike storage.
+No broker fee.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>wmm</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+      <other>Washer/Dryer In Unit, Dishwasher, Central A/C</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
+<property type="rental" status="active" id="33772" url="https://myspacenyc.cazamio.com/apartments/649-Hart-Street-Unit-3D-Brooklyn-NY-11221-33772">
+  <location>
+    <premium>No</premium>
+    <address>649 Hart Street</address>
+    <apartment>3D</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+    <neighborhood>Bushwick</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>3850</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jun-01-2025</availableOn>
+    <description>Spacious 1BR in a modern elevator building with one of the biggest living rooms you?ll find?room for dining, lounging, and working. Bright and airy with oversized windows, a large kitchen, great storage, and in-unit washer/dryer. A/C in every room, big closets, sunny bedroom.
+
+Building perks: gym, roof deck, pet spa, parking (for a fee), lounge, bike storage.
+No broker fee.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>wmm</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+      <other>Washer/Dryer In Unit, Dishwasher, Central A/C</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media />
+</property>
+<property type="rental" status="active" id="33807" url="https://myspacenyc.cazamio.com/apartments/28-Powers-St-Unit-3L-Brooklyn-NY-11211-33807">
+  <location>
+    <premium>No</premium>
+    <address>28 Powers St</address>
+    <apartment>3L</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11211</zipcode>
+    <neighborhood>Williamsburg</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>4000</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>May-09-2025</availableOn>
+    <description />
+    <propertyType>rental</propertyType>
+    <owner_company_name>MGAR</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Hardwood Floors, Stainless steel appliances</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638823928121143510.jpeg?sv=2025-05-05&amp;se=2027-05-09T13%3A06%3A52Z&amp;sr=b&amp;sp=r&amp;sig=vwLq7FFnBbGmNyxLWCGhFOumKmV7cG3IvCWaF2Uxjbs%3D" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638823928121799150.jpeg?sv=2025-05-05&amp;se=2027-05-09T13%3A06%3A52Z&amp;sr=b&amp;sp=r&amp;sig=luTZ9b2UF6mnP49qkPFVbnH%2FUp8gV9Y9uotv%2FRBZsmQ%3D" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638823928121769062.jpeg?sv=2025-05-05&amp;se=2027-05-09T13%3A06%3A52Z&amp;sr=b&amp;sp=r&amp;sig=ny9bor6GwbRxWzbvOhzCHSJbSioFHWN4R%2FRgaWykfQg%3D" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638823928121749454.jpeg?sv=2025-05-05&amp;se=2027-05-09T13%3A06%3A52Z&amp;sr=b&amp;sp=r&amp;sig=DAk0RHMPjnKCy8w9OIOFjQL9PocwlMbEPN2j942w1Nw%3D" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638823928121666026.jpeg?sv=2025-05-05&amp;se=2027-05-09T13%3A06%3A52Z&amp;sr=b&amp;sp=r&amp;sig=9mnhVYOrq6aj1IDgtFf6e1h7YWzLgu5O1sCUfG8ny2Q%3D" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638823928121728480.jpeg?sv=2025-05-05&amp;se=2027-05-09T13%3A06%3A52Z&amp;sr=b&amp;sp=r&amp;sig=4hviLMH1e0e8s0YvZtF0FXjkIq8o1JDFGF3wD4eplV8%3D" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638823928121761277.jpeg?sv=2025-05-05&amp;se=2027-05-09T13%3A06%3A52Z&amp;sr=b&amp;sp=r&amp;sig=5pmi0CpmxfBJqB%2F6xVXvS%2BjdkaVmSkEZkRfGWvFUOS4%3D" position="6" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638823928121751829.jpeg?sv=2025-05-05&amp;se=2027-05-09T13%3A06%3A52Z&amp;sr=b&amp;sp=r&amp;sig=2ekvUASWFHaCp%2FM2fzjOlvv%2F4YeFynPU9THG7cp4BL4%3D" position="7" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638823928121814727.jpeg?sv=2025-05-05&amp;se=2027-05-09T13%3A06%3A52Z&amp;sr=b&amp;sp=r&amp;sig=6dF9YwzMq0W38Zz1i0u0UUWC6wdu0Ulx%2FJRQk0iE3gY%3D" position="8" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638823928122170169.jpeg?sv=2025-05-05&amp;se=2027-05-09T13%3A06%3A52Z&amp;sr=b&amp;sp=r&amp;sig=x%2F%2B%2BF2%2BIF%2FWMvdIlc5uCPQPiwL2LMFNl8gR9c%2FQjYoQ%3D" position="9" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/8515455b-be52-4141-8a40-4c35d33cf98b_638823928122136128.jpeg?sv=2025-05-05&amp;se=2027-05-09T13%3A06%3A52Z&amp;sr=b&amp;sp=r&amp;sig=rO7mDnOkGsYwJijFejp0Qfl1H2oACjtZ7QRZkPoahBs%3D" position="10" description="" />
   </media>
 </property>
 <property type="rental" status="active" id="2723" url="https://myspacenyc.cazamio.com/apartments/251-Front-St-Unit-1B-Brooklyn-NY-11201-2723">

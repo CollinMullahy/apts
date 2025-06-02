@@ -1,64 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <properties>
-<property type="rental" status="active" id="2224" url="https://myspacenyc.cazamio.com/apartments/134-Boerum-St-Unit-A1-Brooklyn-NY-11206-2224">
-  <location>
-    <premium>No</premium>
-    <address>134 Boerum St</address>
-    <apartment>A1</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-    <neighborhood>Williamsburg</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>2950</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>1.5</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Jun-01-2025</availableOn>
-    <description>Gorgeous 1.5 bedroom apartment in East Williamsburg - just around the corner from the Montrose L and Lorimer J/M trains. The apartment features: Hardwood floors, Spacious et-in style kitchen with stainless steel appliances, Large living room, 1 queen size and 1 twin size bedroom. Heat; Hot Water is included and there is rooftop access. 
-
-Surrounded by the best local bars, restaurants, cafes, and a short commute to Manhattan! 
-
-June 1 move in
-Small pets OK
-No broker fee</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>9222</owner_company_name>
-    <amenities>
-      <pets />
-      <other>Hardwood Floors</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638820712349631982.jpeg?sv=2025-05-05&amp;se=2027-05-05T19%3A47%3A14Z&amp;sr=b&amp;sp=r&amp;sig=HnbTIvn58t6zm%2FC70eYBgJnRz4Bk4Somdz2ehFvGv60%3D" position="0" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638820712349697627.jpeg?sv=2025-05-05&amp;se=2027-05-05T19%3A47%3A14Z&amp;sr=b&amp;sp=r&amp;sig=QeewcN5Ioxq0hs2B6xRWn%2F7NVjVXRZQ7rGzHmmoMYqo%3D" position="1" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638820712349649996.jpeg?sv=2025-05-05&amp;se=2027-05-05T19%3A47%3A14Z&amp;sr=b&amp;sp=r&amp;sig=9vIG0%2Bb1BJvq958Ih0u93ly0FFqzb%2BSQgk7CDuLb6pc%3D" position="2" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638820712349732090.jpeg?sv=2025-05-05&amp;se=2027-05-05T19%3A47%3A14Z&amp;sr=b&amp;sp=r&amp;sig=IEjGGpJCd4TCjkJvn3c22gqIB93jUoLFRtZU6gxCd%2BY%3D" position="3" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638820712349617023.jpeg?sv=2025-05-05&amp;se=2027-05-05T19%3A47%3A14Z&amp;sr=b&amp;sp=r&amp;sig=R8auaCS8DE9Vx6WDqlwo%2FQNRJTv6blFJYktoLMj7UpY%3D" position="4" description="" />
-    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638820712349834791.jpeg?sv=2025-05-05&amp;se=2027-05-05T19%3A47%3A15Z&amp;sr=b&amp;sp=r&amp;sig=vvqJPxM0oZGVQHUA%2F4i7N3VVp4MK04IE31Mz9mmD3QY%3D" position="5" description="" />
-  </media>
-</property>
 <property type="rental" status="active" id="2294" url="https://myspacenyc.cazamio.com/apartments/322-Rodney-St-Unit-33-Brooklyn-NY-11211-2294">
   <location>
     <premium>No</premium>
@@ -138,7 +79,7 @@ No broker fee</description>
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Active</status>
+    <status>Deposit Received</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>2950</price>

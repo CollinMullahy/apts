@@ -1762,7 +1762,7 @@ First; Security Only | No Fee | Pets on Approval</description>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>4650</price>
+    <price>4700</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
@@ -1869,7 +1869,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>4650</price>
+    <price>4700</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
@@ -1976,7 +1976,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>4650</price>
+    <price>5200</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
@@ -2080,11 +2080,11 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638917441014206400.jpeg?sv=2025-05-05&amp;se=2027-08-25T18%3A41%3A41Z&amp;sr=b&amp;sp=r&amp;sig=TgRncPFKFbGJDtz453UHEWBwV0HB9LcbB85jIbrfY%2FI%3D" position="38" description="" />
   </media>
 </property>
-<property type="rental" status="active" id="36475" url="https://myspacenyc.cazamio.com/apartments/1499-Bedford-Avenue-Unit-110G-Brooklyn-NY-11216-36475">
+<property type="rental" status="active" id="36475" url="https://myspacenyc.cazamio.com/apartments/1499-Bedford-Avenue-Unit-10G-Brooklyn-NY-11216-36475">
   <location>
     <premium>No</premium>
     <address>1499 Bedford Avenue</address>
-    <apartment>110G</apartment>
+    <apartment>10G</apartment>
     <city>Brooklyn</city>
     <state>NY</state>
     <zipcode>11216</zipcode>
@@ -2094,7 +2094,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>4650</price>
+    <price>4900</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>

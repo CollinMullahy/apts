@@ -386,7 +386,7 @@ Broker fee applies</description>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>4350</price>
+    <price>4300</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
@@ -439,6 +439,67 @@ Small pets accepted</description>
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638925324692561542.jpeg?sv=2025-05-05&amp;se=2027-09-03T21%3A41%3A09Z&amp;sr=b&amp;sp=r&amp;sig=VVuBjHQxYaqHLpmbfexRGaXowCLKOJlt%2BpO700vk6J0%3D" position="2" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638925324692604005.jpeg?sv=2025-05-05&amp;se=2027-09-03T21%3A41%3A09Z&amp;sr=b&amp;sp=r&amp;sig=u3lOl03Q7Sqe%2FpzjO3y%2FsaQPZA2iawadh8ahbSK%2FIM0%3D" position="4" description="" />
     <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638925324692317100.jpeg?sv=2025-05-05&amp;se=2027-09-03T21%3A41%3A09Z&amp;sr=b&amp;sp=r&amp;sig=jUnlYnMOgiQxuRwNO7kMq7O%2F6WrhWIXdUQLSNV%2FZAmg%3D" position="6" description="" />
+  </media>
+</property>
+<property type="rental" status="active" id="19312" url="https://myspacenyc.cazamio.com/apartments/134-Boerum-St-Unit-D2-Brooklyn-NY-11206-19312">
+  <location>
+    <premium>No</premium>
+    <address>134 Boerum St</address>
+    <apartment>D2</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+    <neighborhood>Williamsburg</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>2750</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Sep-11-2025</availableOn>
+    <description>Nice new 1 bedroom apartment in East Williamsburg - just around the corner from the Montrose L and Lorimer J/M trains. 
+
+The apartment features: Hardwood floors, sunny kitchen with stainless steel appliances, and heat and hot water is included.
+
+Surrounded by the best local bars, restaurants, cafes, and a short commute to Manhattan! Montrose L train. 
+
+Available now
+Small pets OK</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>9222</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Hardwood Floors, Stainless steel appliances</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1997_638581258818871784.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="0" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1997_638581258818969213.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="1" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1997_638581258818953369.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="2" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1997_638581258818962209.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="3" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1997_638581258818925959.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="4" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1997_638581258818823124.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="5" description="" />
+    <photo url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1997_638581258818904322.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" position="6" description="" />
   </media>
 </property>
 <property type="rental" status="active" id="36265" url="https://myspacenyc.cazamio.com/apartments/146-Meserole-St-Unit-2L-Brooklyn-NY-11206-36265">

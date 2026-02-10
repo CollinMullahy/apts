@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <properties>
+<property id="1448" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/213-Union-Ave-Unit-1B-Brooklyn-NY-11211-1448">
+  <location>
+    <premium>No</premium>
+    <address>213 Union Ave</address>
+    <apartment>1B</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11211</zipcode>
+    <neighborhood>Williamsburg</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>2900</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1</bedrooms>
+    <totalrooms>3</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Feb-01-2026</availableOn>
+    <description>MySpace exclusive! 
+
+Spacious one bedroom in well maintained pre war building in Williamsburg. Large living room perfect for entertaining. Updated kitchen with stainless steel appliances. 
+Short walk to the J,M,G and L trains. Super easy to get anywhere! Pies-n-Thighs, The Rosemont, Testo, Align Coffee, Williamsburg Pizza, Modern Love Vega, etc all nearby. Incredible Williamsburg location. 
+
+Available Feb 1
+Small pets OK!</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>9222</owner_company_name>
+    <amenities>
+      <pets>Small pets allowed</pets>
+      <other>Hardwood Floors</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639033328332253893.png?sv=2025-05-05&amp;se=2028-01-06T21%3A47%3A13Z&amp;sr=b&amp;sp=r&amp;sig=CtVC0A4YyHdeQSR1KOBpoVniFXEHohL4Nn0yaBGB2Z8%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639033328334454048.png?sv=2025-05-05&amp;se=2028-01-06T21%3A47%3A13Z&amp;sr=b&amp;sp=r&amp;sig=XKvarm2ZjwJF0cv%2BXGU%2FVDRXylyJuhLnuWfsbsPBJ3A%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639033328333829672.png?sv=2025-05-05&amp;se=2028-01-06T21%3A47%3A13Z&amp;sr=b&amp;sp=r&amp;sig=y%2FXMCyyrs9g2SOIfQ8NHg9kA4wpuF5X%2FZdNmGmzWau8%3D" />
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639033328333217600.png?sv=2025-05-05&amp;se=2028-01-06T21%3A47%3A13Z&amp;sr=b&amp;sp=r&amp;sig=F4GhrjnMrGtk9NIennh23PhaXs4PKHniWSwfl34JnYw%3D" />
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639033328333305806.png?sv=2025-05-05&amp;se=2028-01-06T21%3A47%3A13Z&amp;sr=b&amp;sp=r&amp;sig=uWXMr4AjPcmGeHtPEmzlOtcsItwyVzoxgDyCbv%2BWuYM%3D" />
+  </media>
+</property>
 <property id="14107" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/95-Seigel-St-Unit-1B-Brooklyn-NY-11206-14107">
   <location>
     <premium>No</premium>
@@ -60,67 +118,6 @@ February 1 move in</description>
     <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-12/1997_638393992489504205.png?sv=2019-07-07&amp;sr=c&amp;sig=4TX78%2BBb2GlsF7%2BbbAWVmTEG43jAWaFPiyy8zo0h%2B%2FI%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" />
     <photo description="" position="6" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-12/1997_638393992509559796.png?sv=2019-07-07&amp;sr=c&amp;sig=4TX78%2BBb2GlsF7%2BbbAWVmTEG43jAWaFPiyy8zo0h%2B%2FI%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" />
     <photo description="" position="7" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-12/1997_638393992468437817.png?sv=2019-07-07&amp;sr=c&amp;sig=4TX78%2BBb2GlsF7%2BbbAWVmTEG43jAWaFPiyy8zo0h%2B%2FI%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" />
-  </media>
-</property>
-<property id="38499" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/134-Boerum-St-Unit-C2-Brooklyn-NY-11206-38499">
-  <location>
-    <premium>No</premium>
-    <address>134 Boerum St</address>
-    <apartment>C2</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-    <neighborhood>Williamsburg</neighborhood>
-  </location>
-  <details>
-    <status>Deposit Received</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>2700</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>1</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Feb-01-2026</availableOn>
-    <description>Nice new 1 bedroom apartment in East Williamsburg - just around the corner from the Montrose L and Lorimer J/M trains. 
-
-The apartment features: Hardwood floors, sunny kitchen with stainless steel appliances, and heat and hot water is included.
-
-Surrounded by the best local bars, restaurants, cafes, and a short commute to Manhattan! Montrose L train. 
-
-Available 2/1
-Small pets OK</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>9222</owner_company_name>
-    <amenities>
-      <pets />
-      <other>Hardwood Floors, Stainless steel appliances</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1997_638581258818871784.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" />
-    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1997_638581258818969213.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" />
-    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1997_638581258818953369.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" />
-    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1997_638581258818962209.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" />
-    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1997_638581258818925959.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" />
-    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1997_638581258818823124.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" />
-    <photo description="" position="6" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1997_638581258818904322.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r" />
   </media>
 </property>
 <property id="35928" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/526-Baltic-Street-Unit-3I-Brooklyn-NY-11217-35928">

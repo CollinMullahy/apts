@@ -153,7 +153,7 @@ No broker fee.</description>
     <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
-    <price>4800</price>
+    <price>4600</price>
     <featured>no</featured>
     <rental_term>No Rental Term</rental_term>
     <utilities>No Utils Included</utilities>
@@ -1575,7 +1575,7 @@ Close to N/W at Broadway and R/M at Steinway?quick Midtown commute.</description
     <neighborhood>Williamsburg</neighborhood>
   </location>
   <details>
-    <status>Deposit Received</status>
+    <status>Active</status>
     <apartment_type>multi-family</apartment_type>
     <pay_type>No Fee</pay_type>
     <price>4800</price>

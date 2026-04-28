@@ -60,6 +60,63 @@ This is the ideal opportunity to live in one of Brooklyn?s hottest neighborhoods
     <photo description="" position="9" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155330837444339.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r" />
   </media>
 </property>
+<property id="39336" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/63-Duffield-Street-Unit-1L-Brooklyn-NY-11201-39336">
+  <location>
+    <premium>No</premium>
+    <address>63 Duffield Street</address>
+    <apartment>1L</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11201</zipcode>
+    <neighborhood>Dumbo</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>4600</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jun-01-2026</availableOn>
+    <description>June 1st Move-In
+Spacious 2-Bedroom Duplex with Shared Backyard ? Right by Dumbo; Vinegar Hill
+
+Freshly updated duplex in the Downtown Brooklyn area. The apartment offers two bedrooms upstairs with a sleek, modern bathroom, while the lower level features a large open living space?perfect for relaxing or entertaining.
+
+You?ll also enjoy access to a shared backyard (only one other unit), giving you a rare bit of outdoor space in the city.
+
+Set just minutes from Dumbo and Vinegar Hill, the location puts you close to multiple subway lines, great restaurants, and everyday essentials. Wegmans, Whole Foods, and Trader Joe?s are all nearby, making errands easy.
+
+A clean, comfortable layout in a super convenient neighborhood?definitely worth checking out.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>wmm</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Dishwasher, Duplex, Private Outdoor Space</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/8515455b-be52-4141-8a40-4c35d33cf98b_639117054710887450.png?sv=2025-05-05&amp;se=2028-04-13T19%3A31%3A11Z&amp;sr=b&amp;sp=r&amp;sig=61r%2FmV5aaiZ63COpuxNIaijDrCJ6EQUP48gImbayW9A%3D" />
+  </media>
+</property>
 <property id="39388" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/649-Hart-Street-Unit-4F-Brooklyn-NY-11221-39388">
   <location>
     <premium>No</premium>
@@ -137,63 +194,6 @@ No broker fee.</description>
     <photo description="" position="15" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638911358393507464.jpeg?sv=2025-05-05&amp;se=2027-08-18T17%3A43%3A59Z&amp;sr=b&amp;sp=r&amp;sig=WonCIDFIbUhgvyazZTOK%2Fj42jG6zCmIksT1BWYRMDF4%3D" />
     <photo description="" position="16" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638911358394704383.jpeg?sv=2025-05-05&amp;se=2027-08-18T17%3A43%3A59Z&amp;sr=b&amp;sp=r&amp;sig=SmfMgM3KZ0kAJ%2BNmtqps6G8RkyCJ6hAYj8tUh9a4U%2Bs%3D" />
     <photo description="" position="17" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638911358395758894.jpeg?sv=2025-05-05&amp;se=2027-08-18T17%3A43%3A59Z&amp;sr=b&amp;sp=r&amp;sig=MCNSl6bUsPJC5Px2AUfpiJEzhrTCzXTuFJDpKurTXSI%3D" />
-  </media>
-</property>
-<property id="39336" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/63-Duffield-Street-Unit-1L-Brooklyn-NY-11201-39336">
-  <location>
-    <premium>No</premium>
-    <address>63 Duffield Street</address>
-    <apartment>1L</apartment>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11201</zipcode>
-    <neighborhood>Dumbo</neighborhood>
-  </location>
-  <details>
-    <status>Active</status>
-    <apartment_type>multi-family</apartment_type>
-    <pay_type>No Fee</pay_type>
-    <price>4600</price>
-    <featured>no</featured>
-    <rental_term>No Rental Term</rental_term>
-    <utilities>No Utils Included</utilities>
-    <bedrooms>2</bedrooms>
-    <totalrooms>0</totalrooms>
-    <bathrooms>1</bathrooms>
-    <availableOn>Jun-01-2026</availableOn>
-    <description>June 1st Move-In
-Spacious 2-Bedroom Duplex with Shared Backyard ? Right by Dumbo; Vinegar Hill
-
-Freshly updated duplex in the Downtown Brooklyn area. The apartment offers two bedrooms upstairs with a sleek, modern bathroom, while the lower level features a large open living space?perfect for relaxing or entertaining.
-
-You?ll also enjoy access to a shared backyard (only one other unit), giving you a rare bit of outdoor space in the city.
-
-Set just minutes from Dumbo and Vinegar Hill, the location puts you close to multiple subway lines, great restaurants, and everyday essentials. Wegmans, Whole Foods, and Trader Joe?s are all nearby, making errands easy.
-
-A clean, comfortable layout in a super convenient neighborhood?definitely worth checking out.</description>
-    <propertyType>rental</propertyType>
-    <owner_company_name>wmm</owner_company_name>
-    <amenities>
-      <pets />
-      <other>Dishwasher, Duplex, Private Outdoor Space</other>
-    </amenities>
-  </details>
-<agents>
-        <agent id="146">
-          <name>The Belle Piper Team </name>
-          <company>MySpace NYC</company>
-          <email>belle.msnyc@myspacenyc.com</email>
-          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
-          <phone_numbers>
-            <main>646-351-1198</main>
-            <office>646.647.3326</office>
-            <cell>646-351-1198</cell>
-            <fax>718.399.3444 </fax>
-          </phone_numbers>
-        </agent>
-      </agents>
-  <media>
-    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/8515455b-be52-4141-8a40-4c35d33cf98b_639117054710887450.png?sv=2025-05-05&amp;se=2028-04-13T19%3A31%3A11Z&amp;sr=b&amp;sp=r&amp;sig=61r%2FmV5aaiZ63COpuxNIaijDrCJ6EQUP48gImbayW9A%3D" />
   </media>
 </property>
 <property id="39251" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/589-Knickerbocker-Avenue-Unit-PH1-Brooklyn-NY-11221-39251">

@@ -1580,4 +1580,71 @@ This is One Fifty Lawrence.</description>
     <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638956195409377045.jpeg?sv=2025-05-05&amp;se=2027-10-09T15%3A12%3A20Z&amp;sr=b&amp;sp=r&amp;sig=YudnXuPz74eCs65CW%2B0Q2Sdcw7nYxxYqbhNMGkb94PA%3D" />
   </media>
 </property>
+<property id="39734" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/395-Carroll-Street-Unit-321-Brooklyn-NY-11231-39734">
+  <location>
+    <premium>No</premium>
+    <address>395 Carroll Street</address>
+    <apartment>321</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11231</zipcode>
+    <neighborhood>Gowanus</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>6000</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>2</bathrooms>
+    <availableOn>May-15-2026</availableOn>
+    <description>The Westmark is a new three-tower development that brings something genuinely different to Brooklyn: signature arched architecture, a landscaped connecting courtyard shared by all residents, and a location that puts Carroll Gardens dining, Whole Foods, and Prospect Park within easy reach. Studios, one-bedrooms, and two-bedrooms are available now ? many with private balconies, terraces, or wraparound terraces with open city views.
+
+Inside your home
+Floor-to-ceiling windows flood every residence with natural light. Finishes are high-end throughout: custom Italian cabinetry, stone countertops, premium stainless appliances, wide-plank oak flooring, integrated Bluetooth speakers with per-room volume control, and in-unit washer/dryer. Bathrooms are spa-finished with custom vanities and designer tile.
+
+Amenities
+- 24/7 concierge lobby ? Grand entrance, package handling, secure bike storage
+- Rooftop + sky lounge ? Sweeping skyline views, cabana seating, outdoor lounge
+- Fitness + yoga studio ? Full fitness center with dedicated yoga space
+- Work + social spaces ? Co-working lounge, library, game lounge, movie room
+- Resident lounge ? Expansive lounge + kids playroom
+
+*Apartment images shown may not represent the actual unit and or view of the apartment listed. Please inquire for more information.</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>loom</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+      <other>Dishwasher, Hardwood Floors, Central A/C</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639144732672221909.jpeg?sv=2025-05-05&amp;se=2028-05-15T20%3A21%3A07Z&amp;sr=b&amp;sp=r&amp;sig=gIPfsY%2BpL8lKIn3VGC%2F2Ukqg89wDidVgltz1%2B1LeF40%3D" />
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639144732509977982.jpeg?sv=2025-05-05&amp;se=2028-05-15T20%3A20%3A51Z&amp;sr=b&amp;sp=r&amp;sig=DrsyrcaE3E%2BN%2BVqdp%2FVxBSxgcX7PEOs6Wni%2FuExeJb8%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639144732672526641.jpeg?sv=2025-05-05&amp;se=2028-05-15T20%3A21%3A07Z&amp;sr=b&amp;sp=r&amp;sig=QKQJcaN%2BPLwqxo4H3m6cuVyagOgo%2BaAt%2BaJF6ZNpvBE%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639144732672457650.jpeg?sv=2025-05-05&amp;se=2028-05-15T20%3A21%3A07Z&amp;sr=b&amp;sp=r&amp;sig=jEHkySGbVId3IywtifI6SPPpPN7%2FMTUi8aKW0mPl%2Brs%3D" />
+    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639144726771343216.jpeg?sv=2025-05-05&amp;se=2028-05-15T20%3A11%3A17Z&amp;sr=b&amp;sp=r&amp;sig=O10FNk4RmRWMbXbFPNnGrCQr5Mv6Wvhp1CFhT1HhYc0%3D" />
+    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639144726771374783.jpeg?sv=2025-05-05&amp;se=2028-05-15T20%3A11%3A17Z&amp;sr=b&amp;sp=r&amp;sig=kLSltP5LoBwSIcpsrxlaEezDo71AbKcC1WmbanS%2BFC0%3D" />
+    <photo description="" position="6" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639144726771308526.jpeg?sv=2025-05-05&amp;se=2028-05-15T20%3A11%3A17Z&amp;sr=b&amp;sp=r&amp;sig=zI4%2FH6n6JSvQ2FsIfO0idEiQoGYtseykH2jCZ6BlMkU%3D" />
+    <photo description="" position="7" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639144726771574653.jpeg?sv=2025-05-05&amp;se=2028-05-15T20%3A11%3A17Z&amp;sr=b&amp;sp=r&amp;sig=vUa3AnY4g2%2FdCWh8x9kR6RExxEFGJp9ASqWwZgWZFRw%3D" />
+  </media>
+</property>
 </properties>

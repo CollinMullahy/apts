@@ -1,5 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <properties>
+<property id="40311" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/244-Roebling-St-Unit-5-Brooklyn-NY-11211-40311">
+  <location>
+    <premium>No</premium>
+    <address>244 Roebling St</address>
+    <apartment>5</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11211</zipcode>
+    <neighborhood>Williamsburg</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>4000</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>1.5</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>1</bathrooms>
+    <availableOn>Jun-29-2026</availableOn>
+    <description>Myspace Exclusive!
+Beautiful pre-war 1.5 bedroom in Prime Williamsburg
+
+Located at Roebling and South 3rd --- 4 minutes to the Marcy JMZ
+
+1 sunny bedroom
+extra office room
+real living room with great layout ? fits a sofa, coffee table and TV
+separate kitchen
+tons of natural light in all rooms
+
+Includes heat and hot water
+
+NO BROKER FEE</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>9221</owner_company_name>
+    <amenities>
+      <pets />
+      <other>Hardwood Floors</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639180209332219267.jpeg?sv=2025-05-05&amp;se=2028-06-25T21%3A48%3A53Z&amp;sr=b&amp;sp=r&amp;sig=PybR4XgPri5DyuTIFuJ65uPHVFkILbuk5trvn5Q1ivI%3D" />
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639180209332140376.jpeg?sv=2025-05-05&amp;se=2028-06-25T21%3A48%3A53Z&amp;sr=b&amp;sp=r&amp;sig=3W2ygtfbopoEnhQ1nA5v8YW1%2BzqfWHmaGEgHVVkf4CA%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639180209331711704.jpeg?sv=2025-05-05&amp;se=2028-06-25T21%3A48%3A53Z&amp;sr=b&amp;sp=r&amp;sig=u5BeEpCIFXljqI%2BOZUgRARm65mUAmjjpOxxJLQn%2BjJw%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639180209332258422.jpeg?sv=2025-05-05&amp;se=2028-06-25T21%3A48%3A53Z&amp;sr=b&amp;sp=r&amp;sig=prgFpR%2BWb2B9QNhXWA2ALk0Ssjeol7tIFuhJ2yS9V7Q%3D" />
+    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639180209332251171.jpeg?sv=2025-05-05&amp;se=2028-06-25T21%3A48%3A53Z&amp;sr=b&amp;sp=r&amp;sig=%2BLSfTQpjLYExztcobx1acvNLBK5YDU%2FA7S17X4%2FoGGM%3D" />
+    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639180209332087928.jpeg?sv=2025-05-05&amp;se=2028-06-25T21%3A48%3A53Z&amp;sr=b&amp;sp=r&amp;sig=niIT3bezH3WVMaducqmfOACgt3XDEepL5%2BmG8MOxZDQ%3D" />
+    <photo description="" position="6" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639180209332168908.jpeg?sv=2025-05-05&amp;se=2028-06-25T21%3A48%3A53Z&amp;sr=b&amp;sp=r&amp;sig=aoI%2B9qqCWQk2qZBmx%2FT65akiDdYyAzKULXtLSzSVR20%3D" />
+  </media>
+</property>
 <property id="40301" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1497-Carroll-St-Unit-38-Brooklyn-NY-11213-40301">
   <location>
     <premium>No</premium>

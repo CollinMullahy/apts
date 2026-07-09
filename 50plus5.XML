@@ -326,7 +326,15 @@ No broker fee</description>
           </phone_numbers>
         </agent>
       </agents>
-  <media />
+  <media>
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639192258361358461.jpeg?sv=2025-05-05&amp;se=2028-07-09T20%3A30%3A36Z&amp;sr=b&amp;sp=r&amp;sig=yjYrJpDyYwxjgzdzRohtmCc%2BnBpHoS2ALPwTgptzFDg%3D" />
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639192258362047907.jpeg?sv=2025-05-05&amp;se=2028-07-09T20%3A30%3A36Z&amp;sr=b&amp;sp=r&amp;sig=noXqMf1ektfHU%2FOAHpYJG3RcpMswRpB119vXIBgMjkU%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639192258361907261.jpeg?sv=2025-05-05&amp;se=2028-07-09T20%3A30%3A36Z&amp;sr=b&amp;sp=r&amp;sig=tzU1sbJPFbHqnoALkzy0lw%2FtX0LmYRnsjJ5YxHXnXFQ%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639192258361408973.jpeg?sv=2025-05-05&amp;se=2028-07-09T20%3A30%3A36Z&amp;sr=b&amp;sp=r&amp;sig=HYWVRiZSoTiJKPrCbII4JCmr3zqStqR111kLJ4kPu0Q%3D" />
+    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639192258361356708.jpeg?sv=2025-05-05&amp;se=2028-07-09T20%3A30%3A36Z&amp;sr=b&amp;sp=r&amp;sig=KT9CAgpYX2ev1l5%2B3Xb2KyRAbquLnb7HTAXrZ9J5HIU%3D" />
+    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639192258361857466.jpeg?sv=2025-05-05&amp;se=2028-07-09T20%3A30%3A36Z&amp;sr=b&amp;sp=r&amp;sig=mblHcgzTll8cgOJhmKwiszkerD5Sirx8HXtEtCd8iGY%3D" />
+    <photo description="" position="6" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639192258362448846.jpeg?sv=2025-05-05&amp;se=2028-07-09T20%3A30%3A36Z&amp;sr=b&amp;sp=r&amp;sig=uFSlGyHHklfw8T%2BNhFHDQ8ARALdo9Zb44RZhmJ97caM%3D" />
+  </media>
 </property>
 <property id="40415" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1002-Bushwick-Ave-Unit-2F-Brooklyn-NY-11221-40415">
   <location>

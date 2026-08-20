@@ -413,6 +413,72 @@ UNIT FEATURES
     <photo description="" position="16" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/8515455b-be52-4141-8a40-4c35d33cf98b_639167037515112278.jpeg?sv=2025-05-05&amp;se=2028-06-10T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=59dFE8ktR%2BGGjiG7YMtSAymnr%2B6Aa68NR51WPt0PIGU%3D" />
   </media>
 </property>
+<property id="40878" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/96-Moore-Street-Unit-2b-Brooklyn-NY-11206-40878">
+  <location>
+    <premium>No</premium>
+    <address>96 Moore Street</address>
+    <apartment>2b</apartment>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+    <neighborhood>East Williamsburg</neighborhood>
+  </location>
+  <details>
+    <status>Active</status>
+    <apartment_type>multi-family</apartment_type>
+    <pay_type>No Fee</pay_type>
+    <price>4800</price>
+    <featured>no</featured>
+    <rental_term>No Rental Term</rental_term>
+    <utilities>No Utils Included</utilities>
+    <bedrooms>2</bedrooms>
+    <totalrooms>0</totalrooms>
+    <bathrooms>2</bathrooms>
+    <availableOn>Oct-01-2026</availableOn>
+    <description>96 Moore Street is a boutique rental in East Williamsburg offering studio, one-, two-, and three-bedroom apartments. Units feature hardwood floors, central air, and dishwashers. Select apartments include private outdoor space.
+
+The building also offers laundry in the basement and a shared rooftop.
+
+Great location:
+
+Easy access to the L, JM, and G trains
+Close to Trader Joe?s and Whole Foods
+Surrounded by restaurants, bars, and cafes</description>
+    <propertyType>rental</propertyType>
+    <owner_company_name>wmm</owner_company_name>
+    <amenities>
+      <pets>All pets allowed</pets>
+      <other>Dishwasher, Central A/C</other>
+    </amenities>
+  </details>
+<agents>
+        <agent id="146">
+          <name>The Belle Piper Team </name>
+          <company>MySpace NYC</company>
+          <email>belle.msnyc@myspacenyc.com</email>
+          <lead_email>belle.msnyc@myspacenyc.com</lead_email>
+          <phone_numbers>
+            <main>646-351-1198</main>
+            <office>646.647.3326</office>
+            <cell>646-351-1198</cell>
+            <fax>718.399.3444 </fax>
+          </phone_numbers>
+        </agent>
+      </agents>
+  <media>
+    <photo description="" position="0" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639099903781757421.png?sv=2025-05-05&amp;se=2028-03-24T23%3A06%3A18Z&amp;sr=b&amp;sp=r&amp;sig=foWoFnbTwxtZqqg7OTCfFMbzA7TBD2xqWF7OEmDSMVU%3D" />
+    <photo description="" position="1" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639099905256368765.png?sv=2025-05-05&amp;se=2028-03-24T23%3A08%3A45Z&amp;sr=b&amp;sp=r&amp;sig=uelAcUjKUc0y%2F3h0qDjMwVwunRtR5p9EfXg3G%2B%2BDH5I%3D" />
+    <photo description="" position="2" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639099905722484623.png?sv=2025-05-05&amp;se=2028-03-24T23%3A09%3A32Z&amp;sr=b&amp;sp=r&amp;sig=rHIM9Cu3YrVw%2FK2euR9cj8r%2FNyqnjLBcQ1VLaRYy%2BHU%3D" />
+    <photo description="" position="3" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639099906842688732.png?sv=2025-05-05&amp;se=2028-03-24T23%3A11%3A24Z&amp;sr=b&amp;sp=r&amp;sig=XJmSv51kXVOeNTk11X4B7sDX6vhwfdswgOGkMSUc5vA%3D" />
+    <photo description="" position="4" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639099903782144362.png?sv=2025-05-05&amp;se=2028-03-24T23%3A06%3A18Z&amp;sr=b&amp;sp=r&amp;sig=p50rP37fnmZ0BYTeKfHEWBJgOrDE58fcvF8ZfCUIgzM%3D" />
+    <photo description="" position="5" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639099903784353585.png?sv=2025-05-05&amp;se=2028-03-24T23%3A06%3A18Z&amp;sr=b&amp;sp=r&amp;sig=wDPkhfDLMk9Lz2EQX31ufUYbBUGAzu0gOAcLlB2Tm4Q%3D" />
+    <photo description="" position="6" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639099903786494874.png?sv=2025-05-05&amp;se=2028-03-24T23%3A06%3A18Z&amp;sr=b&amp;sp=r&amp;sig=nwawUhTqSdYmUKIO3Qd8923qTtQTSuGGU646qXzVrWA%3D" />
+    <photo description="" position="7" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639099910442923661.png?sv=2025-05-05&amp;se=2028-03-24T23%3A17%3A24Z&amp;sr=b&amp;sp=r&amp;sig=tOdlHj%2B7ruxt%2Br5agt1DgSTva9TF%2FtUfJiEMEosTDrk%3D" />
+    <photo description="" position="8" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639099908872516570.png?sv=2025-05-05&amp;se=2028-03-24T23%3A14%3A47Z&amp;sr=b&amp;sp=r&amp;sig=FtghZZBbKNbTxgzTJJ79rncbRMZ%2F3ccYcxLjXWQgyMY%3D" />
+    <photo description="" position="9" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639099908415232967.png?sv=2025-05-05&amp;se=2028-03-24T23%3A14%3A01Z&amp;sr=b&amp;sp=r&amp;sig=P7fSK0GR47jbrTVQLe8%2FQaNLuauyc4%2F53uRuvkZ%2Flnk%3D" />
+    <photo description="" position="10" url="https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639099908635413823.png?sv=2025-05-05&amp;se=2028-03-24T23%3A14%3A23Z&amp;sr=b&amp;sp=r&amp;sig=Y375SOHpv%2F5uEpGK7BnWiWb%2Fnxv43%2F9DnNDJ2m%2Fl9gY%3D" />
+  </media>
+</property>
 <property id="40812" status="active" type="rental" url="https://myspacenyc.cazamio.com/apartments/1141-Willoughby-Ave-Unit-6a-Brooklyn-NY-11237-40812">
   <location>
     <premium>No</premium>
